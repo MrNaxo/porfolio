@@ -4015,7 +4015,7 @@ margin-bottom: 40px;
 }
 @media only screen and (max-width: 1000px) {
   .works__slide-xs {
-    display: none;
+    display: inline-flex;
   }
 }
 .works__title {
