@@ -1,3 +1,7 @@
+.nav-widget {
+    display: none !important;
+}
+
 ::-moz-selection {
   color: #fff;
 
