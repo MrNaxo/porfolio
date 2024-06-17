@@ -4068,10 +4068,8 @@ height: 630px;
 }
 @media only screen and (max-width: 450px) {
   .works__card {
-    width: 200px;
-
-height: 400px;
-
+    width: 100%;
+    height: 400px;
 }
 }
 .works__text {
