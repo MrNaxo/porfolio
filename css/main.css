@@ -6579,4 +6579,16 @@ visibility: visible;
 opacity: 1;
 
 }
-/*# sourceMappingURL=maps/main.css.map */
+
+/*CAMBIOS PORFOLIO AGOSTO 2024 */
+
+.for-proyects {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.proyects-btn {
+  margin-top: 2rem;
+  min-width: 335px;
+}
