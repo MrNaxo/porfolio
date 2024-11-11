@@ -5,14 +5,14 @@
 ::-moz-selection {
   color: #fff;
 
-background-color: #fb4936;
+background-color: #29b563ed;
 
 }
 
 ::selection {
   color: #fff;
 
-background-color: #fb4936;
+background-color: #29b563ed;
 
 }
 
@@ -1840,7 +1840,7 @@ border: 1px solid #000;
 
 border-radius: 8px;
 
-background-color: #fb4936;
+background-color: #29b563ed;
 
 }
 .neue {
@@ -1912,7 +1912,7 @@ font-weight: 500;
 .neue-headline2-green {
 text-transform: uppercase;
 
-color: #fb4936;
+color: #29b563ed;
 
 font-size: 70px;
 
@@ -2013,7 +2013,7 @@ font-weight: 500;
 .neue-link {
 text-transform: uppercase;
 
-color: #fb4936;
+color: #29b563ed;
 
 font-size: 22px;
 
@@ -2123,7 +2123,7 @@ padding: 13px 28px;
 
 color: #0d0d0c;
 
-background: #fb4936;
+background: #29b563ed;
 
 -webkit-transition: background .3s linear;
 
@@ -3534,7 +3534,7 @@ right: 0;
 
 width: 90.5%;
 
-color: #fb4936;
+color: #29b563ed;
 
 overflow: hidden;
 
@@ -5213,7 +5213,7 @@ flex-direction: column;
 }
 }
 .services__card-title.active {
-  color: #fb4936;
+  color: #29b563ed;
 }
 .services__card-title span {
   margin-right: 10px;
@@ -5984,7 +5984,7 @@ transition: all ease-out .3s;
 
 }
   .header__links li:hover {
-    color: #fb4936;
+    color: #29b563ed;
 
 -webkit-transition: all ease-out .3s;
 
@@ -6009,7 +6009,7 @@ font-size: 40px;
 
 line-height: 120%;
 
-background: #fb4936;
+background: #29b563ed;
 
 opacity: 0;
 
@@ -6340,7 +6340,7 @@ width: 100%;
 
 height: 100%;
 
-background-color: #fb4936;
+background-color: #29b563ed;
 
 -webkit-transition: width .3s ease;
 
@@ -6418,7 +6418,7 @@ width: 150px;
 
 height: 150px;
 
-border: 4px solid #fb4936;
+border: 4px solid #29b563ed;
 
 border-top: 4px solid transparent;
 
@@ -6442,7 +6442,7 @@ height: 100%;
 
 border: 4px solid transparent;
 
-border-right: 4px solid #fb4936;
+border-right: 4px solid #29b563ed;
 
 border-radius: 50%;
 
@@ -6476,7 +6476,7 @@ width: 120px;
 
 height: 120px;
 
-border: 4px solid #fb4936;
+border: 4px solid #29b563ed;
 
 border-top: 4px solid transparent;
 
@@ -6504,7 +6504,7 @@ height: 100%;
 
 border: 4px solid transparent;
 
-border-right: 4px solid #fb4936;
+border-right: 4px solid #29b563ed;
 
 border-radius: 50%;
 
@@ -6518,7 +6518,7 @@ width: 80px;
 
 height: 80px;
 
-border: 4px solid #fb4936;
+border: 4px solid #29b563ed;
 
 border-top: 4px solid transparent;
 
